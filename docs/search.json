@@ -9,23 +9,16 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introduction to ACL2",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "See Kaufmann, Manolios, and Moore (2000) for information about ACL2.\n\n\n\n\nKaufmann, M., P. Manolios, and. Moore. 2000. Computer-Aided Reasoning: An Approach. Kluwer Academic Press."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "polynomials.html",
+    "href": "polynomials.html",
+    "title": "2  Polynomials",
     "section": "",
-    "text": "In summary, this book has no content whatsoever."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "This chapter describes how polynomials can be defined in ACL2 and some simple theorems about polynomials in general."
   },
   {
     "objectID": "quadratic-formula.html",
@@ -33,5 +26,12 @@
     "title": "3  Quadratic Formula",
     "section": "",
     "text": "This chapter presents a proof of the quadratic formula for polynomials with real or complex coefficients."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Kaufmann, M., P. Manolios, and. Moore. 2000. Computer-Aided\nReasoning: An Approach. Kluwer Academic Press."
   }
 ]
