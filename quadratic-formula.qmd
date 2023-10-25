@@ -1,0 +1,4 @@
+# Quadratic Formula
+
+This chapter presents a proof of the quadratic formula for polynomials with
+real or complex coefficients.

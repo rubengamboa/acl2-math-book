@@ -1,0 +1,33 @@
+project:
+  type: book
+
+book:
+  title: "Formalizing Mathematics in ACL2"
+  author: "Ruben Gamboa"
+  date: "10/24/2023"
+  cover-image: formal-math-acl2-cover.png
+  chapters:
+    - index.qmd
+    - part: "Introduction to ACL2"
+      chapters:
+        - intro.qmd
+    - part: "Algebra"
+      chapters:
+        - polynomials.qmd
+        - quadratic-formula.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format: 
+  html:
+    theme: cosmo
+    code-fold: true
+    html-math-method: katex
+  pdf: 
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+
+
+

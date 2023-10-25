@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Formalizing Mathematics in ACL2",
+    "section": "",
+    "text": "Preface\nThe theorem prover ACL2 has been used extensively to reason about hardware and software systems. It was designed to prove theorems about functions in Common LISP, and it is among the top theorem provers in the world.\nACL2 was not, however, designed explicitly to reason about mathematics. In fact, it lacks many features that would normally be considered mandatory for mathematical reasoning, such as\n\nthe real numbers,\nsets,\nhigher-order functions, and\nstrong support for quantifiers.\n\nNevertheless, mathematics is essential for reasoning about many software systems, e.g., number theory in cryptography or the Discrete Fourier Transform in signal processing. So many areas of mathematics have indeed been formalized in ACL2, often pushing the boundary of what is and is not formalizable in ACL2. This book collects many different mathematical proofs in ACL2, including results from number theory, algebra, and analysis. It aims to teach you, the reader, how those formalizations proceeded and how to use ACL2 to prove new mathematical facts.\nThe first part of the book introduces ACL2 to readers who are unfamiliar with this theorem prover. You may safely skip this part if you are already confident with ACL2. The remaining parts examine a number of different mathematical formalizations in ACL2. You may essentially read these in any order, though some depend on previously formalized results.\nTo learn more about ACL2 visit the ACL2 home page at https://www.cs.utexas.edu/users/moore/acl2/."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "quadratic-formula.html",
+    "href": "quadratic-formula.html",
+    "title": "3  Quadratic Formula",
+    "section": "",
+    "text": "This chapter presents a proof of the quadratic formula for polynomials with real or complex coefficients."
+  }
+]

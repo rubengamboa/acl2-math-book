@@ -1,0 +1,4 @@
+# Polynomials
+
+This chapter describes how polynomials can be defined in ACL2 and some simple
+theorems about polynomials in general.
